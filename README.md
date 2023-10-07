@@ -15,7 +15,7 @@
   <br>
   <li>🎎 I'm a huge anime nerd. I've been a fan since I was a kid, growing up watching classics like Naruto and DBZ. Even to this day, I still enjoy newer shows like JJK and KnY. However, my schedule has become so busy that I've transitioned to reading manga and manhwa. It's a great way for me to enjoy the stories since I can finish them in a day, and I've become impatient with waiting for the next anime seasons, so I tend to read ahead!🤣🤣</li>
   <br>
-  <li>🤖 "I have a great interest in ai. I genuinely believe that AI has the potential to reach a point where it surpasses human intelligence, although I currently view the human brain as the most powerful 'computer.' While I understand that many people may fear this change, I can't help but be optimistic about the possibilities it could bring. Call me one-sided, but I see a world where something smarter than a human can tackle problems that we once perceived as impossible. Of course, challenges and ethical considerations will arise, but I believe that the positive impact of advanced AI could be profound.</li>
+  <li>🤖 I have a great interest in ai. I genuinely believe that AI has the potential to reach a point where it surpasses human intelligence, although I currently view the human brain as the most powerful 'computer.' While I understand that many people may fear this change, I can't help but be optimistic about the possibilities it could bring. Call me one-sided, but I see a world where something smarter than a human can tackle problems that we once perceived as impossible. Of course, challenges and ethical considerations will arise, but I believe that the positive impact of advanced AI could be profound.</li>
   
 </ul>
 
