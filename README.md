@@ -1,6 +1,6 @@
 <h1>Hello there!👋🏼</h1>
 
-<p><h3>👨🏽‍💻 I am <strong>John Rohb Paloma</strong>, a first year <strong>Computer Engineering</strong> student</h3></p>
+<p>👨🏽‍💻 I am <strong>John Rohb Paloma</strong>, a first year <strong>Computer Engineering</strong> student</p>
 
 <h3>📖 About Me</h3>
 <ul>
