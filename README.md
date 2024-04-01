@@ -2,7 +2,7 @@
 
 <p>👨🏽‍💻 I am <strong>John Rohb Paloma</strong>, a <strong>Computer Engineering</strong> student</p>
 
-i like tech
+i press keyboard to create stuffs
 
 
 <!---
